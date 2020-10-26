@@ -6,6 +6,8 @@ Exported models are oriented +y up, +Z front.
 
 
 ## ISSUES
-Exported models and uv maps are flipped on the x axis.
+Exported models are flipped on the x axis.
+
+Exported uv maps are (sometimes?) flipped on the x axis.
 
 Exported vertices are not weighted to any bone.
